@@ -1,13 +1,13 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:0F4C5C,100:14B8A6&height=200&section=header&text=Nakshatra%20Gupta&fontSize=52&fontColor=E0F7FA&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20%40%20Iowa%20State&descSize=18&descAlignY=58" alt="Nakshatra Gupta header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0C,55:5C0A14,100:FF2A3B&height=200&section=header&text=Nakshatra%20Gupta&fontSize=52&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=Computer%20Engineering%20%40%20Iowa%20State&descSize=18&descAlignY=58" alt="Nakshatra Gupta header banner" width="100%" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=520&lines=Computer%20Engineering%20student;Full-stack%20and%20Android%20developer;Building%20things%20people%20actually%20use" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira%20Code&weight=500&size=22&duration=3000&pause=1000&color=0E7490&center=true&vCenter=true&width=520&lines=Computer%20Engineering%20student;Full-stack%20and%20Android%20developer;Building%20things%20people%20actually%20use" alt="Typing animation: Computer Engineering student, Full-stack and Android developer, Building things people actually use" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=22&duration=3000&pause=1000&color=FF2A3B&center=true&vCenter=true&width=520&lines=Computer%20Engineering%20student;Full-stack%20and%20Android%20developer;Building%20things%20people%20actually%20use" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains%20Mono&weight=500&size=22&duration=3000&pause=1000&color=C8102E&center=true&vCenter=true&width=520&lines=Computer%20Engineering%20student;Full-stack%20and%20Android%20developer;Building%20things%20people%20actually%20use" alt="Typing animation: Computer Engineering student, Full-stack and Android developer, Building things people actually use" />
   </picture>
 </p>
 
@@ -78,14 +78,8 @@ I'm a Computer Engineering student at Iowa State University (graduating May 2027
 ## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=NakshatraGupta1308&show_icons=true&theme=tokyonight&hide_border=true&title_color=22D3EE&icon_color=14B8A6&bg_color=0B1D3A" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=NakshatraGupta1308&show_icons=true&hide_border=true&title_color=0E7490&icon_color=0F766E&text_color=0B1D3A&bg_color=F0FDFA" alt="Nakshatra's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NakshatraGupta1308&layout=compact&theme=tokyonight&hide_border=true&title_color=22D3EE&bg_color=0B1D3A" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakshatraGupta1308&layout=compact&hide_border=true&title_color=0E7490&text_color=0B1D3A&bg_color=F0FDFA" alt="Nakshatra's most used languages" />
-  </picture>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NakshatraGupta1308&show_icons=true&hide_border=true&bg_color=090A0C&title_color=FF2A3B&icon_color=FF2A3B&text_color=E3E2E5" alt="Nakshatra's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NakshatraGupta1308&layout=compact&hide_border=true&bg_color=090A0C&title_color=FF2A3B&text_color=E3E2E5" alt="Nakshatra's most used languages" />
 </p>
 
 ## 🐍 Contribution Snake
@@ -100,11 +94,11 @@ I'm a Computer Engineering student at Iowa State University (graduating May 2027
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nakshatra-gupta-13aug2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:nixngaps@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://nakshatragupta1308.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nakshatra-gupta-13aug2005"><img src="https://img.shields.io/badge/LinkedIn-FF2A3B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nixngaps@gmail.com"><img src="https://img.shields.io/badge/Email-18191D?style=for-the-badge&logo=gmail&logoColor=FF2A3B" alt="Email" /></a>
+  <a href="https://nakshatragupta1308.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-090A0C?style=for-the-badge&logo=googlechrome&logoColor=FF2A3B" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14B8A6,50:0F4C5C,100:0B1D3A&height=110&section=footer" alt="Footer wave" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2A3B,45:5C0A14,100:090A0C&height=110&section=footer" alt="Footer wave" width="100%" />
 </p>
