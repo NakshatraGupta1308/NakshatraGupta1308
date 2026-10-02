@@ -13,16 +13,17 @@
 
 ## Hi, I'm Nakshatra 👋
 
-I'm a Computer Engineering student at Iowa State University (graduating May 2027) who likes building software that people actually open twice. I've shipped full-stack web apps and Android frontends, and I've also gone all the way down the stack with VHDL, RISC-V, and assembly. I'm looking for software engineering and product roles where I can own features end to end.
+I'm a Computer Engineering student at Iowa State University (graduating May 2027) who likes building software that people actually open twice. I've shipped a native Android app with a Spring Boot backend, a production website for a real client, and bare-metal C for an autonomous rover. I'm looking for software engineering and product roles where I can own features end to end.
 
 <details>
 <summary><b>A bit more about my experience</b></summary>
 <br />
 
-- **Full-stack development:** web apps from database to UI, with a focus on clean, fast interfaces
-- **Android frontend engineering:** building and polishing app screens in Kotlin and Java
-- **Hardware design:** VHDL and a RISC-V processor design
-- **Low-level programming:** assembly, and knowing what the machine is really doing
+- **Full-stack and Android:** built Calmify, a mental health platform with a native Android app, Spring Boot backend, MySQL, and real-time WebSockets, as part of a 4-person team
+- **Client web work:** designed and deployed the production site for Rangam Graphics, a printing company with 33+ years in business
+- **Embedded systems:** programmed an autonomous CyBot rover in bare-metal C on a TI Tiva TM4C123 (IR and ultrasonic sensor fusion, PWM, UART)
+- **Hardware and low level:** ARM assembly, VHDL, and RISC-V processor design
+- **Education:** B.S. Computer Engineering at Iowa State University, after starting in Computer Science and Engineering at Nirma University
 
 </details>
 
@@ -30,36 +31,49 @@ I'm a Computer Engineering student at Iowa State University (graduating May 2027
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,py,c,js,ts,rust&perline=7" alt="Languages: Java, Kotlin, Python, C, JavaScript, TypeScript, Rust" />
+  <img src="https://skillicons.dev/icons?i=c,java,py,js,ts&perline=7" alt="Languages: C, Java, Python, JavaScript, TypeScript" />
 </p>
 
 <p align="center"><b>Frontend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,androidstudio,threejs&perline=7" alt="Frontend: HTML, CSS, React, Android Studio, Three.js" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,threejs,androidstudio&perline=7" alt="Frontend: HTML, CSS, React, Tailwind CSS, Three.js, Android Studio" />
 </p>
 
 <p align="center"><b>Backend</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=7" alt="Backend: Node.js, Express, MySQL" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,mysql&perline=7" alt="Backend: Spring Boot, Node.js, Express, MySQL" />
 </p>
 
 <p align="center"><b>Tools</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,tauri,linux&perline=7" alt="Tools: Git, GitHub, VS Code, Tauri, Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,tauri,netlify,vercel&perline=7" alt="Tools: Git, GitHub, GitLab, Linux, Tauri, Netlify, Vercel" />
 </p>
 
-<p align="center"><sub>Hardware: VHDL, RISC-V, assembly</sub></p>
+<p align="center"><sub>Hardware: Embedded C, ARM assembly, VHDL, RISC-V, TI Tiva TM4C123</sub></p>
 
 ## 🚀 Featured Projects
 
 | Project | What it is |
 | :-- | :-- |
-| [**DHH Explorer**](https://github.com/NakshatraGupta1308/dhh) | Desi Hip Hop discography and timeline explorer. [Live demo](#dhh-demo-url) |
+| [**DHH Explorer**](https://github.com/NakshatraGupta1308/dhh) | Desi Hip Hop discography and timeline explorer |
 | [**Inkwell**](https://github.com/NakshatraGupta1308/inkwell) | Themeable desktop notes app and lightweight code editor built with Tauri |
 | [**Legend Hunter**](https://github.com/NakshatraGupta1308/legend-hunter) | Chrome extension that auto-walks and catches legendary Pokemon in a browser game |
-| [**World Cup Tracker**](https://github.com/NakshatraGupta1308/world-cup-tracker) | Live match day dashboard for World Cup 2026. [Live demo](#world-cup-tracker-demo-url) |
-| [**ZeroGround**](https://github.com/NakshatraGupta1308/zeroground) | 3D build-fight game that runs in the browser. [Live demo](#zeroground-demo-url) |
-| [**Kard**](https://github.com/NakshatraGupta1308/kard) | Multiplayer card game. [Live demo](#kard-demo-url) |
+| [**World Cup Tracker**](https://github.com/NakshatraGupta1308/world-cup-tracker) | Live match day dashboard for World Cup 2026 |
+| [**ZeroGround**](https://github.com/NakshatraGupta1308/zeroground) | 3D build-fight game that runs in the browser |
+| [**Kard**](https://github.com/NakshatraGupta1308/kard-thegame) | Multiplayer card game. [Play it](https://kard-thegame.vercel.app/) |
+
+<details>
+<summary><b>More projects</b></summary>
+<br />
+
+| Project | What it is |
+| :-- | :-- |
+| **Calmify** | Android mental health platform with counsellor booking and live chat (Java, Spring Boot, WebSockets). [Demo video](https://www.youtube.com/watch?v=qTwxhTLsqMM) |
+| [**NASA Space Apps Orbit Visualizer**](https://github.com/NakshatraGupta1308/SpaceApps_Astro6) | 3D Keplerian orbit simulator in the browser with Three.js and WebGL |
+| **Rangam Graphics** | Production website for a commercial printing studio. [Live site](https://wondrous-druid-2535ff.netlify.app/) |
+| **CyBot** | Autonomous rover in bare-metal C with IR and ultrasonic sensor fusion |
+
+</details>
 
 ## 📊 GitHub Stats
 
@@ -86,9 +100,9 @@ I'm a Computer Engineering student at Iowa State University (graduating May 2027
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/nakshatra-gupta-13aug2005"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:nixngaps@gmail.com"><img src="https://img.shields.io/badge/Email-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://nakshatragupta1308.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-0B1D3A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
 </p>
 
 <p align="center">
